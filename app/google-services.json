@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "337432951924",
+    "project_id": "my-memory-afb03",
+    "storage_bucket": "my-memory-afb03.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:337432951924:android:c5f325d852160e9baf6521",
+        "android_client_info": {
+          "package_name": "com.lakshyagupta7089.mymemory"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "337432951924-qlu08glk7o4mt7t9f602gepdvob1gnht.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABHruLqKmKhKsyhPDrNd8T3pbSPHXxs10"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "337432951924-qlu08glk7o4mt7t9f602gepdvob1gnht.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
